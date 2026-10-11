@@ -1,0 +1,6 @@
+path/to/bigfile
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
